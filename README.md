@@ -1,8 +1,7 @@
-# PRODUCTION-DATA-EFFICIENCY
-Interactive Excel dashboard to visualize production efficiency by machine, department, and shift, featuring pivot charts, slicers, and sheet navigation using hyperlinks.
 # 📊 Production Efficiency Dashboard
 
 This project is an interactive Excel-based dashboard that tracks and visualizes key metrics related to manufacturing production efficiency. It includes clean sheet navigation using hyperlinks and visual filters for better insights.
+Interactive Excel dashboard to visualize production efficiency by machine, department, and shift, featuring pivot charts, slicers, and sheet navigation using hyperlinks.
 
 ---
 
